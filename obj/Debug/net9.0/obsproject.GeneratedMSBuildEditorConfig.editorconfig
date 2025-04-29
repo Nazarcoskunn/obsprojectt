@@ -1,0 +1,129 @@
+is_global = true
+build_property.TargetFramework = net9.0
+build_property.TargetFramework = net9.0
+build_property.TargetPlatformMinVersion = 
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = obsproject
+build_property.RootNamespace = obsproject
+build_property.ProjectDir = C:\Users\nazar\Desktop\sıfırdan .Net Core\obsproject\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 9.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\nazar\Desktop\sıfırdan .Net Core\obsproject
+build_property._RazorSourceGeneratorDebug = 
+build_property.EffectiveAnalysisLevelStyle = 9.0
+build_property.EnableCodeStyleSeverity = 
+
+[C:/Users/nazar/Desktop/sıfırdan .Net Core/obsproject/Views/Auth/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXV0aFxMb2dpbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/nazar/Desktop/sıfırdan .Net Core/obsproject/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/nazar/Desktop/sıfırdan .Net Core/obsproject/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/nazar/Desktop/sıfırdan .Net Core/obsproject/Views/instructor/announcedetails.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcaW5zdHJ1Y3Rvclxhbm5vdW5jZWRldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/nazar/Desktop/sıfırdan .Net Core/obsproject/Views/instructor/courselettergrade.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcaW5zdHJ1Y3Rvclxjb3Vyc2VsZXR0ZXJncmFkZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/nazar/Desktop/sıfırdan .Net Core/obsproject/Views/instructor/Home.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcaW5zdHJ1Y3RvclxIb21lLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/nazar/Desktop/sıfırdan .Net Core/obsproject/Views/instructor/newlettergrade.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcaW5zdHJ1Y3RvclxuZXdsZXR0ZXJncmFkZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/nazar/Desktop/sıfırdan .Net Core/obsproject/Views/instructor/resitclasslist.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcaW5zdHJ1Y3RvclxyZXNpdGNsYXNzbGlzdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/nazar/Desktop/sıfırdan .Net Core/obsproject/Views/instructor/resitexamtime.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcaW5zdHJ1Y3RvclxyZXNpdGV4YW10aW1lLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/nazar/Desktop/sıfırdan .Net Core/obsproject/Views/instructor/ressitannounce.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcaW5zdHJ1Y3RvclxyZXNzaXRhbm5vdW5jZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/nazar/Desktop/sıfırdan .Net Core/obsproject/Views/instructor/ViewResitExamSchedule.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcaW5zdHJ1Y3RvclxWaWV3UmVzaXRFeGFtU2NoZWR1bGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/nazar/Desktop/sıfırdan .Net Core/obsproject/Views/Secretary/Home.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2VjcmV0YXJ5XEhvbWUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/nazar/Desktop/sıfırdan .Net Core/obsproject/Views/Secretary/ResitExamSucces.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2VjcmV0YXJ5XFJlc2l0RXhhbVN1Y2Nlcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/nazar/Desktop/sıfırdan .Net Core/obsproject/Views/Secretary/Resitexamtime.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2VjcmV0YXJ5XFJlc2l0ZXhhbXRpbWUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/nazar/Desktop/sıfırdan .Net Core/obsproject/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/nazar/Desktop/sıfırdan .Net Core/obsproject/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/nazar/Desktop/sıfırdan .Net Core/obsproject/Views/Student/attendresitexam.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3R1ZGVudFxhdHRlbmRyZXNpdGV4YW0uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/nazar/Desktop/sıfırdan .Net Core/obsproject/Views/Student/courselettergrade.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3R1ZGVudFxjb3Vyc2VsZXR0ZXJncmFkZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/nazar/Desktop/sıfırdan .Net Core/obsproject/Views/Student/Home.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3R1ZGVudFxIb21lLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/nazar/Desktop/sıfırdan .Net Core/obsproject/Views/Student/newlettergrade.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3R1ZGVudFxuZXdsZXR0ZXJncmFkZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/nazar/Desktop/sıfırdan .Net Core/obsproject/Views/Student/resitexamdetails.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3R1ZGVudFxyZXNpdGV4YW1kZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/nazar/Desktop/sıfırdan .Net Core/obsproject/Views/Student/resitexamtime.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3R1ZGVudFxyZXNpdGV4YW10aW1lLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/nazar/Desktop/sıfırdan .Net Core/obsproject/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/nazar/Desktop/sıfırdan .Net Core/obsproject/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/nazar/Desktop/sıfırdan .Net Core/obsproject/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-dcxmcbma44

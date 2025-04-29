@@ -1,0 +1,66 @@
+@using ObsBackend.Model
+@model List<ObsBackend.Model.Course>
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>CSS Template</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;700&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="~/css/announcedetails.css">
+</head>
+<body>
+  <div class="sidenav">
+    <div class="rectangle">
+      <img class="img" src="https://r.resimlink.com/fCe2L5DGax.png" alt="" />
+      <h1 class="name">Dr.Öğr.Üyesi <br /> Ayşen Kozan</h1>
+    </div>
+
+    <div class="link">
+      <img class="img-1" src="https://r.resimlink.com/cILKuk.png" alt="" />
+      <img class="img-2" src="https://r.resimlink.com/i6YoAZ.png" alt="" />
+      <img class="img-3" src="https://r.resimlink.com/Hpdjor7EzC.png" alt="" />
+      <img class="img-4" src="https://r.resimlink.com/4SXkCtqpFKI.png" alt="" />
+      <img class="img-5" src="https://r.resimlink.com/g8HT0WkN4.png" alt="" />
+      <img class="img-6" src="https://r.resimlink.com/PCIZ3qp4F.png" alt="" />
+      <img class="img-7" src="https://r.resimlink.com/XW50IKnLpvy_.png" alt="" />
+
+      <a class="link1" asp-controller="instructor" asp-action="Home">Home</a>
+      <a class="link2" asp-controller="instructor" asp-action="CourseLetterGrade">Course Letter Grade</a>
+      <a class="link3" asp-controller="instructor" asp-action="ResitClassList">Resit exam class list</a>
+      <a class="link4" asp-controller="instructor" asp-action="ResitExamTime">Resit exam Time</a>
+      <a class="link5" asp-controller="instructor" asp-action="AnnounceDetails">Resit exam details</a>
+      <a class="link6" asp-controller="instructor" asp-action="newlettergrade">New letter grades</a>
+      <a class="link7" asp-controller="Instructor" asp-action="Logout">Quit</a>
+    </div>
+  </div>
+
+  <div class="content">
+    <div class="container">
+      <h1 class="baslıkk">Announce Exam Details</h1>
+
+      @foreach (var course in Model)
+      {
+          <div class="card">
+              <div class="course-info">
+                  <span class="code">@course.Code</span>
+                  <span>&nbsp; &nbsp; &nbsp; &nbsp;@course.Instructor.Name</span>
+              </div>
+              <div class="course-title">@course.LectureName</div>
+
+              <form asp-action="PostExamAnnouncement" asp-controller="Instructor" method="post">
+                  <input type="hidden" name="ExamId" value="@course.ResitExams.FirstOrDefault()?.Id" />
+
+                  <div class="message-box">
+                      <textarea name="Message" placeholder="Write your exam announcement here..." rows="4" cols="50"></textarea>
+                  </div>
+
+                  <button type="submit" class="share-btn">Share</button>
+              </form>
+          </div>
+      } 
+    </div>
+  </div>
+</body>
+</html>
